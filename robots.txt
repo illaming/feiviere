@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahvohkaiqu.tengxuanyu.fun/sitemap.xml
